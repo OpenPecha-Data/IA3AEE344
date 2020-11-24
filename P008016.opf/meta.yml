@@ -3,5 +3,17 @@ initial_creation_type: ocr
 source_metadata:
   id: bdr:W3CN4648
   title: བོད་ཀྱི་ཡི་གེའི་སྤྱི་རྣམ་བློ་གསལ་འཇུག་ངོགས།
-  volume: ''
+  volume:
+    e12f86d55cb64835bc89620bab162f48:
+      image_group_id: I3CN4650
+      title: Volume 1 of bod kyi yi ge'i spyi rnam blo gsal 'jug ngogs/
+      volume_number: 1
+      total_pages: 292
   author: ''
+ebook_metadata:
+  title: བོད་ཀྱི་ཡི་གེའི་སྤྱི་རྣམ་བློ་གསལ་འཇུག་ངོགས།
+  author: ''
+  sku: P008016
+  cover: cover.jpg
+  layers:
+  - pagination
